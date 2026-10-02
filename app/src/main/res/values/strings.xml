@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">T3 Miguel Ángel</string>
     <string name="nombre">Miguel Ángel Correa Merlo</string>
-    <string name="boton1">Botón 1</string>
-    <string name="boton2">Botón 2</string>
+    <string name="boton" translatable="false">Continuar</string>
+    <string name="Cancelar">Cancelar</string>
+    <string name="Continuar">Continuar</string>
 </resources>
