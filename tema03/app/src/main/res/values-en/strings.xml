@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">T3 Miguel Ángel</string>
+    <string name="nombre">Miguel Ángel Correa Merlo</string>
+    <string name="Continuar">Continue</string>
+    <string name="boton">Continue</string>
+    <string name="boton2">Cancel</string>
+</resources>
